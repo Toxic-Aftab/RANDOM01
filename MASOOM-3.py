@@ -72,7 +72,6 @@ for xd in range(10000):
     f=random.randrange(1, 99)
     uaku2=(f'{a}{b}{c}{d}{e}{f}')
     ugen.append(uaku2)
- os.system('xdg-open https://www.facebook.com/profile.php?id=100084758756433')
 logo =""" 
 \x1b[1;97m _______  _______  _______  _______  _______  _______ 
 \x1b[1;92m(       )(  ___  )(  ____ \(  ___  )(  ___  )(       )
