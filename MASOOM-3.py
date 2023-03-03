@@ -103,7 +103,6 @@ class Main:
         print(" [00] Exit")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
-      os.system('xdg-open https://www.facebook.com/FBMASTER.HACKERGANGSTER.AFTAB')
         if Mumit in ["1", "01"]:
             num()
         if Mumit in ["2","02"]:
